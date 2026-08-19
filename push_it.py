@@ -1,1 +1,1 @@
-print('Push this')
+print('Push it')
