@@ -1,12 +1,9 @@
-\# Repo Turtle
+# Repo Turtle
 
 
+## Heading One1.
 
-\## Heading One1.
+Here is content. It is very informative. This repo has examples & etc.
 
-Here is content. It is very informative. This repo has examples \& etc.
-
-
-
-\## Heading Two2.
+## Heading Two2.
 
